@@ -9,7 +9,7 @@ const morgan = require('morgan')
 
 // get, post ,put, delete 
 
-//built in middlewares
+//built in middlewaressss
 app.use(express.json())
 
 //custom middlewares
